@@ -1,0 +1,1 @@
+# A-simple-FastAPI-application-that-returns-a-JSON-response.-Built-and-tested-with-Uvicorn.
